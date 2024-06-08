@@ -14,7 +14,7 @@
 In order to execute the pipeline, you will need to first install the requirements above. Additionally, you will need a list of chromosome sizes.
 
 ## Sample Data Files
-### HiC_Samples_File
+### Example Hi-C Sample File
 ```
 [path_to_hic_sample] [sample_name]
 path_to_hic_sample1 sample1

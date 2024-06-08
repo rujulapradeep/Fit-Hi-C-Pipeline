@@ -3,6 +3,7 @@
 
  # Pre-requirements
  - Python
+ - Java
  - JuicerTools: https://github.com/aidenlab/JuicerTools
  - fithic: https://github.com/ay-lab/fithic
  - gzip
@@ -44,7 +45,7 @@ chr5 ####
 
 # fithic.py
 ```
-usage: fithic.py [-h] <hic_samples_fil> <output_dir> <chromsizes_file> <juicer_jar_path> <fithic_path> <resolution>
+usage: python fithic.py [-h] <hic_samples_fil> <output_dir> <chromsizes_file> <juicer_jar_path> <fithic_path> <resolution>
 
 Run the Fit-Hi-C pipeline for Hi-C data.
 
